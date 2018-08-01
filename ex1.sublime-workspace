@@ -1,0 +1,997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"key",
+				"key_j"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"tt",
+				"text-transform\tproperty"
+			],
+			[
+				"fw",
+				"font-weight\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"b",
+				"bottom\tvertical-align"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"jc",
+				"jc-fs\tjustify-content: flex-start;"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"bore",
+				"border\tproperty"
+			],
+			[
+				"flex-",
+				"flex-flow\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"table",
+				"table-row\tdisplay"
+			],
+			[
+				"os",
+				"ov-s\toverflow: scroll;"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"hidden",
+				"hiddenClass"
+			],
+			[
+				"class",
+				"activeClass"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"ac",
+				"addClass"
+			],
+			[
+				"modal",
+				"modalClose"
+			],
+			[
+				"targ",
+				"targetDelivery"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bgsc",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"medal",
+				"medal_g.png\tw:92 h:104"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"cup_",
+				"cup_1.png\tw:140 h:242"
+			],
+			[
+				"tal",
+				"tal-a\ttext-align-last: auto;"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"Basket",
+				"BasketButton"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"repea",
+				"repeat-x  (value)"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"prod_",
+				"prod_types"
+			],
+			[
+				"su",
+				"super_cat_id"
+			],
+			[
+				"fetch",
+				"fetchall_hashref"
+			],
+			[
+				"bra",
+				"brand_cat"
+			],
+			[
+				"CONS",
+				"constant  (module)"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bacgr",
+				"background"
+			],
+			[
+				"inse",
+				"insertBefore  (function)"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"Com",
+				"CompareBlocks"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"crea",
+				"createElement  (function)"
+			],
+			[
+				"lo",
+				"found-loading"
+			],
+			[
+				"foun",
+				"found-loading"
+			],
+			[
+				"_SHOP_VA",
+				"_SHOP_VALUES_LIST_BOOLEAN"
+			],
+			[
+				"moz-bo",
+				"-moz-border-radius:   (property)"
+			],
+			[
+				"price_",
+				"price_where"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"prod",
+				"producer"
+			],
+			[
+				"atr",
+				"attributes"
+			],
+			[
+				"g_",
+				"g_pre_res"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"sele",
+				"selected_params"
+			],
+			[
+				"att",
+				"attrs"
+			],
+			[
+				"sel",
+				"selected_params"
+			],
+			[
+				"cre",
+				"createElement  (function)"
+			],
+			[
+				"prd",
+				"products"
+			],
+			[
+				"C",
+				"Cache"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"at",
+				"Attributes"
+			],
+			[
+				"_",
+				"_updated"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"gro",
+				"groups"
+			],
+			[
+				"CAT_",
+				"CAT_SET_OBJECT_ATTR"
+			],
+			[
+				"group_",
+				"group_name"
+			],
+			[
+				"atru",
+				"attributes"
+			],
+			[
+				"list",
+				"lists"
+			],
+			[
+				"Attributes",
+				"AttributesUpdate"
+			],
+			[
+				"Гру",
+				"Группы"
+			],
+			[
+				"GetAtri",
+				"GetAttributesAll"
+			],
+			[
+				"A",
+				"Attributes"
+			],
+			[
+				"grop",
+				"groupType"
+			],
+			[
+				"conne",
+				"connectWith"
+			],
+			[
+				"groups",
+				"groups_options"
+			],
+			[
+				"rece",
+				"receive"
+			],
+			[
+				"show",
+				"show_type"
+			],
+			[
+				"file",
+				"filter_group_name"
+			],
+			[
+				"att_",
+				"attr_name"
+			],
+			[
+				"_SHOP_FIL",
+				"_SHOP_FILTERS_GROUPS"
+			],
+			[
+				"fil",
+				"filter_group_id"
+			],
+			[
+				"count",
+				"count_template"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"_SHOP",
+				"_SHOP_GROUPS_REL"
+			],
+			[
+				"group",
+				"group_name"
+			],
+			[
+				"icon",
+				"icon-delete"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"_SHOP_",
+				"_SHOP_ATTRS_LIST"
+			],
+			[
+				"_SHO",
+				"_SHOP_VALUES_"
+			],
+			[
+				"type",
+				"type_id"
+			],
+			[
+				"__",
+				"__PRODUCTS__CACHE"
+			],
+			[
+				"els",
+				"elsif"
+			],
+			[
+				"PROD",
+				"PROD_PRODS_ADD"
+			],
+			[
+				"li",
+				"lists"
+			],
+			[
+				"Pro",
+				"ProductsOnlyChange"
+			],
+			[
+				"PROD_",
+				"PROD_PRODS_GET_ALL"
+			],
+			[
+				"Grop",
+				"GroupParams"
+			],
+			[
+				"Up",
+				"UpdateGroupParams"
+			],
+			[
+				"U",
+				"UpdateGroups"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"Gr",
+				"GroupParams"
+			],
+			[
+				"Get",
+				"GetGroups"
+			],
+			[
+				"GetPa",
+				"GetParamValues"
+			],
+			[
+				"S",
+				"STRUCTURE_TAGS"
+			],
+			[
+				"fa",
+				"fabric_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import { loadList, loadDetails } from './api';\nimport { getDetailsContentLayout } from './details';\nimport { createFilterControl } from './filter';\n\nexport default function initMap(ymaps, containerId) {\n  const myMap = new ymaps.Map(containerId, {\n    center: [55.76, 37.64],\n    controls: [],\n    zoom: 10\n  });\n\n  const objectManager = new ymaps.ObjectManager({\n    clusterize: true,\n    gridSize: 64,\n    clusterIconLayout: 'default#pieChart',\n    clusterDisableClickZoom: false,\n    geoObjectOpenBalloonOnClick: false,\n    geoObjectHideIconOnBalloonOpen: false,\n    geoObjectBalloonContentLayout: getDetailsContentLayout(ymaps)\n  });\n\n  objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');\n\n  loadList().then(data => {\n    objectManager.add(data);\n  });\n\n\n  // details\n  objectManager.objects.events.add('click', event => {\n    const objectId = event.get('objectId');\n    const obj = objectManager.objects.getById(objectId);\n\n    objectManager.objects.balloon.open(objectId);\n\n    if (!obj.properties.details) {\n      loadDetails(objectId).then(data => {\n        obj.properties.details = data;\n        objectManager.objects.balloon.setData(obj);\n      });\n    }\n  });\n\n  // filters\n  const listBoxControl = createFilterControl(ymaps);\n  myMap.controls.add(listBoxControl);\n\n  var filterMonitor = new ymaps.Monitor(listBoxControl.state);\n  filterMonitor.add('filters', filters => {\n    objectManager.setFilter(\n      obj => filters[obj.isActive ? 'active' : 'defective']\n    );\n  });\n\n  myMap.geoObjects.add(objectManager);\n}",
+			"file": "src/map.js",
+			"file_size": 2661,
+			"file_write_time": 131775284512635408,
+			"settings":
+			{
+				"buffer_size": 1550,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils/generate-data.js",
+			"settings":
+			{
+				"buffer_size": 982,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: $.trim"
+			]
+		],
+		"width": 657.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jenia/projects/shri/entrance-task-1-2",
+		"/home/jenia/projects/shri/entrance-task-1-2/public",
+		"/home/jenia/projects/shri/entrance-task-1-2/src",
+		"/home/jenia/projects/shri/entrance-task-1-2/utils"
+	],
+	"file_history":
+	[
+		"/home/jenia/projects/shri/entrance-task-1-2/utils/generate-data.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/src/mappers.js",
+		"/media/jenia/54C62908C628EBC4/Разные сайты на разных  CMS -  Django, CMS Flexite",
+		"/home/jenia/projects/shri/entrance-task-1-2/src/chart.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/src/details.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/src/api.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/src/filter.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/public/index.css",
+		"/home/jenia/projects/shri/entrance-task-1-2/src/index.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/node_modules/stream-http/test/browser/disable-fetch.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/public/index.html",
+		"/home/jenia/projects/shri/entrance-task-1-2/webpack.config.js",
+		"/home/jenia/projects/shri/entrance-task-1-2/.gitignore",
+		"/home/jenia/projects/shri/entrance-task-1-2/package.json",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/kuznica/main.feedback/flex.feedback/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/ajax/feedback.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/reg-form.css",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.registration/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/system.auth.forgotpasswd/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/main.register/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.authorize/templates/flat/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.authorize/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/main.profile/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.confirmation/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.initialize/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.form/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/js/main.js",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.otp/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/system.auth.forgotpasswd/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/system.auth.registration/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/system.auth.authorize/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/system.auth.authorize/.default/lang/ru/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/header.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/system.auth.authorize/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/style.css",
+		"/home/jenia/servers/combat/home/bitrix/www/test/test.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/system.auth.authorize/component.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/main.profile/register/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/main.profile/component.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/personal/profile/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/system.auth.authorize~/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/system.auth.confirmation~/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/account.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/flex.filter/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/menu-main.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/header.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/filter.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/flex/store.sale.basket.basket/flex.basket/basket_items.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/my-order.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.personal.order.list/personal/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/basket.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/button.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.personal.order.list/personal/result_modifier.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/flex/store.sale.basket.basket/flex.basket/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/flex/store.sale.basket.basket/flex.basket/result_modifier.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/sidebar.css",
+		"/home/jenia/servers/combat/home/bitrix/www/test/personal/order/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/flex/store.sale.basket.basket/flex.basket/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/flex/store.sale.basket.basket/flex.basket/basket_items.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.personal.order.list/personal/lang/ru/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/personal/order/detail.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/sale.personal.order.list/personal/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/personal/order/cancel.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/sale.personal.order/personal/cancel.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/sale.personal.order/personal/detail.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/sale.personal.order/personal/list.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/flex/components/bitrix/sale.personal.order/list/list.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/about/manufacturers/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/news.detail/manufacturers/component_epilog.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/news/manufacturers/section.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/templates/store_minimal_red/components/bitrix/news.detail/manufacturers/component_epilog.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/news/manufacturers/news.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/news.detail/manufacturers/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/news.list/manufacturers/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/news/manufacturers/detail.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.element/catalog/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/include/manufacturers.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/flex/store.sale.basket.basket/component.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/store.sale.basket.basket/component.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/sale.basket.basket/component.php",
+		"/home/jenia/servers/combat/home/bitrix/www/personal/order/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.personal.order.list/list/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.personal.order/list/list.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.personal.order/list/detail.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.personal.order/list/cancel.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/flex.sale/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/main.profile/personal/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/personal/profile/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/personal/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/personal/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/personal/cart/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/personal/cart/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/personal/order/make/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/ajax/add2cart.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/flex.sale/order_info.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/ajax/buy/script.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/ajax/recall.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/ajax/question.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/ajax/manufactor.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/sale.order.ajax/component.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/order.css",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/sale.order.ajax/get.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/flex.sale/lang/ru/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/fields.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/order-form.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/flex.sale/summary.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/catalog.section/lastview/component_epilog.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.section/flex.section/component_epilog.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/.default/summary.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/advanced_search/index.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/flex.sale/paysystem.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog/catalog/section.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/manufacture.filter/flex.filter/result_modifier.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/manufacture.filter/flex.filter/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.section/flex.section/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/catalog.section/lastview/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/catalog-card.css",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/main/result_modifier_bkup.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/main/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/flex.adv_filter/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.section.list/filter/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/catalog.smart.filter/templates/.default/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/sale_ajax/template.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/init.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/include/sale.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/dbconn.restore.php",
+		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/after_connect.php",
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/catalog.section/lastview/lang/ru/template.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"-./node_modules",
+			"-'./node_modules/*'",
+			"-./node_modules/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"createFilterControl",
+			"FeatureCollection",
+			"720",
+			"72",
+			"isSelected",
+			"createFilterControl",
+			"listBoxControl",
+			"chart",
+			"getDetailsContentLayout",
+			"createFilterControl",
+			"Map",
+			"superclass",
+			"isActive",
+			"createFilterControl",
+			"defective",
+			"conso",
+			"createFilterControl",
+			"geoObjectBalloonContentLayout",
+			"filter by state",
+			"myMap",
+			"loadList",
+			"myMap",
+			"objectManager",
+			"islands",
+			"loadList",
+			"initMap",
+			"ymaps"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/map.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1509,
+								1509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "utils/generate-data.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 103.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 154.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ex1.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
