@@ -6,7 +6,7 @@ body,
 }
 
 #map {
-  height: 600px;
+  height: 100vh;
 }
 
 .details-info {

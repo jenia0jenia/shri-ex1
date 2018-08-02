@@ -520,30 +520,38 @@
 	"buffers":
 	[
 		{
-			"contents": "import { loadList, loadDetails } from './api';\nimport { getDetailsContentLayout } from './details';\nimport { createFilterControl } from './filter';\n\nexport default function initMap(ymaps, containerId) {\n  const myMap = new ymaps.Map(containerId, {\n    center: [55.76, 37.64],\n    controls: [],\n    zoom: 10\n  });\n\n  const objectManager = new ymaps.ObjectManager({\n    clusterize: true,\n    gridSize: 64,\n    clusterIconLayout: 'default#pieChart',\n    clusterDisableClickZoom: false,\n    geoObjectOpenBalloonOnClick: false,\n    geoObjectHideIconOnBalloonOpen: false,\n    geoObjectBalloonContentLayout: getDetailsContentLayout(ymaps)\n  });\n\n  objectManager.clusters.options.set('preset', 'islands#greenClusterIcons');\n\n  loadList().then(data => {\n    objectManager.add(data);\n  });\n\n\n  // details\n  objectManager.objects.events.add('click', event => {\n    const objectId = event.get('objectId');\n    const obj = objectManager.objects.getById(objectId);\n\n    objectManager.objects.balloon.open(objectId);\n\n    if (!obj.properties.details) {\n      loadDetails(objectId).then(data => {\n        obj.properties.details = data;\n        objectManager.objects.balloon.setData(obj);\n      });\n    }\n  });\n\n  // filters\n  const listBoxControl = createFilterControl(ymaps);\n  myMap.controls.add(listBoxControl);\n\n  var filterMonitor = new ymaps.Monitor(listBoxControl.state);\n  filterMonitor.add('filters', filters => {\n    objectManager.setFilter(\n      obj => filters[obj.isActive ? 'active' : 'defective']\n    );\n  });\n\n  myMap.geoObjects.add(objectManager);\n}",
 			"file": "src/map.js",
-			"file_size": 2661,
-			"file_write_time": 131775284512635408,
 			"settings":
 			{
-				"buffer_size": 1550,
+				"buffer_size": 1575,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "utils/generate-data.js",
+			"file": "src/details.js",
 			"settings":
 			{
-				"buffer_size": 982,
+				"buffer_size": 1891,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/index.js",
+			"file": "src/mappers.js",
 			"settings":
 			{
-				"buffer_size": 104,
+				"buffer_size": 726,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1565,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -605,13 +613,18 @@
 	},
 	"expanded_folders":
 	[
-		"/home/jenia/projects/shri/entrance-task-1-2",
-		"/home/jenia/projects/shri/entrance-task-1-2/public",
-		"/home/jenia/projects/shri/entrance-task-1-2/src",
-		"/home/jenia/projects/shri/entrance-task-1-2/utils"
+		"/home/jenia/projects/answer/shri-ex1",
+		"/home/jenia/projects/answer/shri-ex1/public",
+		"/home/jenia/projects/answer/shri-ex1/src",
+		"/home/jenia/projects/answer/shri-ex1/utils"
 	],
 	"file_history":
 	[
+		"/home/jenia/projects/answer/shri-ex1/src/details.js",
+		"/home/jenia/projects/answer/shri-ex1/utils/generate-data.js",
+		"/home/jenia/projects/answer/shri-ex1/public/index.css",
+		"/home/jenia/projects/answer/shri-ex1/src/index.js",
+		"/home/jenia/projects/answer/shri-ex1/src/map.js",
 		"/home/jenia/projects/shri/entrance-task-1-2/utils/generate-data.js",
 		"/home/jenia/projects/shri/entrance-task-1-2/src/mappers.js",
 		"/media/jenia/54C62908C628EBC4/Разные сайты на разных  CMS -  Django, CMS Flexite",
@@ -734,16 +747,11 @@
 		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/flex.adv_filter/template.php",
 		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.section.list/filter/template.php",
 		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/catalog.smart.filter/templates/.default/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/sale_ajax/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/init.php",
-		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/include/sale.php",
-		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/dbconn.restore.php",
-		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/php_interface/after_connect.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/catalog.section/lastview/lang/ru/template.php"
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/sale_ajax/template.php"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -761,6 +769,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"objectManager.objects.balloon",
+			"cluster",
+			"createChart",
+			",",
+			"mapServerData",
+			"iconCaption",
+			"loadDetails",
+			"objects",
+			"Chart",
+			"BalloonContentLayout",
+			"details-info",
+			"destroy",
+			"createChart",
+			"connectionChart",
+			"getDetailsContentLayout",
+			"getPopupContent",
+			"getCurrentState",
 			"createFilterControl",
 			"FeatureCollection",
 			"720",
@@ -795,6 +820,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			",\n",
 			""
 		],
 		"reverse": false,
@@ -806,7 +832,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -815,15 +841,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1550,
+						"buffer_size": 1575,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1509,
-								1509
+								1044,
+								1044
 							]
 						],
 						"settings":
@@ -833,68 +859,98 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 495.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "utils/generate-data.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 982,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								467,
-								467
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 275.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "src/index.js",
-					"semi_transient": false,
+					"buffer": 1,
+					"file": "src/details.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 104,
+						"buffer_size": 1891,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								104,
-								104
+								147,
+								147
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/mappers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1539,
+								1539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

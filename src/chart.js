@@ -29,19 +29,19 @@ export function createChart(container, data, isActive) {
         {
           data: data,
           borderWidth: 1,
-            borderColor: borderColor,
-              backgroundColor: backgroundColor
+          borderColor: borderColor,
+          backgroundColor: backgroundColor
         }
       ]
     },
     options: {
-        legend: { 
-            display: false
-        },
-        scales: {
-            xAxes: [{ ticks: { display: false } }],
-            yAxes: [{ ticks: { beginAtZero: true, max: 0 } }]
-        }
+      legend: { 
+        display: false
+      },
+      scales: {
+        xAxes: [{ ticks: { display: false } }],
+        yAxes: [{ ticks: { beginAtZero: true, max: 10 } }]
+      }
     }
   });
 

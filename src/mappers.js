@@ -11,7 +11,7 @@ export function mapServerData(serverData) {
         coordinates: [obj.long, obj.lat]
       },
       properties: {
-        iconCaption: obj.serialNumber
+        iconCaption: obj.serialNumber,
       },
       options: {
         preset: getObjectPreset(obj)
