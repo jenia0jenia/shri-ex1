@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"c",
+				"click"
+			],
+			[
 				"max",
 				"max-width\tproperty"
 			],
@@ -510,10 +514,6 @@
 			[
 				"S",
 				"STRUCTURE_TAGS"
-			],
-			[
-				"fa",
-				"fabric_id"
 			]
 		]
 	},
@@ -523,34 +523,24 @@
 			"file": "src/map.js",
 			"settings":
 			{
-				"buffer_size": 1575,
+				"buffer_size": 2100,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/details.js",
+			"file": "/media/jenia/54C62908C628EBC4/projects/txt/comnds.txt",
 			"settings":
 			{
-				"buffer_size": 1891,
-				"encoding": "UTF-8",
+				"buffer_size": 2368,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/mappers.js",
+			"file": "src/chart.js",
 			"settings":
 			{
-				"buffer_size": 726,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 1565,
+				"buffer_size": 1059,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -620,7 +610,17 @@
 	],
 	"file_history":
 	[
+		"/home/jenia/projects/shri/entrance-task-2-2/guide/assets/icon_temperature_2@2x.png",
+		"/home/jenia/projects/shri/entrance-task-2-2/guide/assets/icon_temperature_2@1x.png",
+		"/home/jenia/projects/shri/entrance-task-2-2/guide/assets/icon_temperature_2.svg",
+		"/home/jenia/projects/shri/entrance-task-2-2/guide/assets/Яндекс Дом@1x.png",
+		"/home/jenia/projects/shri/entrance-task-2-2/Яндекс Дом.svg",
+		"/home/jenia/projects/shri/entrance-task-2-2/guide/assets/Яндекс Дом.svg",
+		"/home/jenia/projects/shri/entrance-task-2-2/guide/index.html",
 		"/home/jenia/projects/answer/shri-ex1/src/details.js",
+		"/home/jenia/projects/answer/shri-ex1/README.md",
+		"/home/jenia/projects/answer/shri-ex1/src/popup.js",
+		"/home/jenia/projects/answer/shri-ex1/src/mappers.js",
 		"/home/jenia/projects/answer/shri-ex1/utils/generate-data.js",
 		"/home/jenia/projects/answer/shri-ex1/public/index.css",
 		"/home/jenia/projects/answer/shri-ex1/src/index.js",
@@ -737,21 +737,11 @@
 		"/home/jenia/servers/combat/home/bitrix/www/test/advanced_search/index.php",
 		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/flex.sale/paysystem.php",
 		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog/catalog/section.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/manufacture.filter/flex.filter/result_modifier.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/manufacture.filter/flex.filter/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.section/flex.section/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/catalog.section/lastview/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/css/postcss/modules/catalog-card.css",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/main/result_modifier_bkup.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/main/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.smart.filter/flex.adv_filter/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/catalog.section.list/filter/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/test/bitrix/components/bitrix/catalog.smart.filter/templates/.default/template.php",
-		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/bitrix/sale.order.ajax/sale_ajax/template.php"
+		"/home/jenia/servers/combat/home/bitrix/www/bitrix/templates/flex/components/ab/manufacture.filter/flex.filter/result_modifier.php"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -769,6 +759,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"generateDetails",
+			".connectionChart",
+			"createChart",
+			"    ",
+			"getColor",
+			"isActive",
+			"defective",
+			"getColor",
+			"getLabel",
+			"createChart",
+			"details",
+			"conso",
+			"getDetailsContentLayout",
+			"BalloonContentLayout",
+			"geoObject",
+			"BalloonContentLayout",
+			"getDetailsContentLayout",
+			"BalloonContentLayout",
+			"details",
+			"}",
+			";",
 			"objectManager.objects.balloon",
 			"cluster",
 			"createChart",
@@ -820,6 +831,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"  ",
+			"}\n",
+			";\n",
 			",\n",
 			""
 		],
@@ -841,15 +855,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1575,
+						"buffer_size": 2100,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1044,
-								1044
+								288,
+								288
 							]
 						],
 						"settings":
@@ -859,7 +873,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 275.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -867,90 +881,60 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/details.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1891,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								147,
-								147
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/mappers.js",
+					"file": "/media/jenia/54C62908C628EBC4/projects/txt/comnds.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 726,
+						"buffer_size": 2368,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								451,
-								451
+								2368,
+								2368
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 641.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "README.md",
+					"buffer": 2,
+					"file": "src/chart.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1565,
+						"buffer_size": 1059,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1539,
-								1539
+								955,
+								955
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 135.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1007,7 +991,7 @@
 	"project": "ex1.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
